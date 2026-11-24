@@ -501,23 +501,23 @@ Responsiveness Tablets
   h1 {
     font-size: 40px;
   }
-}
 
-h2 {
-  font-size: 26px;
-}
+  h2 {
+    font-size: 26px;
+  }
 
-button {
-  font-size: 18px;
-}
+  button {
+    font-size: 18px;
+  }
 
-.header__description {
-  padding: 0 24px;
-}
+  .header__description {
+    padding: 0 24px;
+  }
 
-.book {
-  width: 50%;
-}
+  .book {
+    width: 50%;
+  }
+} 
 
 /*
 
@@ -529,16 +529,16 @@ Responsiveness Phones
   .nav__links {
     display: none;
   }
-}
 
-.btn__menu {
-  display: block;
-}
+  .btn__menu {
+    display: block;
+  }
 
-.highlight {
-  width: 100%;
-}
+  .highlight {
+    width: 100%;
+  }
 
-.highlight:not(:last-child) {
-  margin-bottom: 24px;
+  .highlight:not(:last-child) {
+    margin-bottom: 24px;
+  }
 }
